@@ -56,12 +56,6 @@ Desarrollo aplicaciones **web y móviles modernas**, integrando frontend, backen
 
 ---
 
-## 🐍 Contribution Animation
-
-![Snake animation](https://raw.githubusercontent.com/luisdionicio-lgtm/luisdionicio-lgtm/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 👨‍💻 About Me
 
 🎓 Estudiante de **Diseño y Desarrollo de Software**
@@ -70,7 +64,7 @@ Desarrollo aplicaciones **web y móviles modernas**, integrando frontend, backen
 
 📱 Desarrollo de aplicaciones **Web & Mobile**
 
-🎨 Diseño y prototipado con **Figma**
+🎨 Diseño de interfaces y prototipos con **Figma**
 
 🗄️ Experiencia con bases de datos **SQL y NoSQL**
 
@@ -93,6 +87,8 @@ Desarrollo aplicaciones **web y móviles modernas**, integrando frontend, backen
 ---
 
 ## 🤝 Let's Connect
+
+¿Tienes una idea, proyecto o quieres colaborar?
 
 [![Portfolio](https://img.shields.io/badge/Visitar_Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://web-crud-lab02.onrender.com/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisdionicio-lgtm)
