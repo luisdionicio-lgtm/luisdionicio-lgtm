@@ -10,7 +10,6 @@ Desarrollo aplicaciones **web y móviles modernas**, integrando frontend, backen
 [![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisdionicio-lgtm)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisdb159@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=luisdionicio-lgtm&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
 
 ---
 
